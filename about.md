@@ -25,8 +25,16 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
-	<li><a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a></li>
+	<li>
+	<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a>
+	</li>
 	
+	<li>
+	<a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing">Topologically Consistent Leafy Tree Morphing</a>
+	</li>
 	
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li>
+	<a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high">Sketch-Based Interactive Modeling of Geology</a>
+	</li>
+	
 </ul>
