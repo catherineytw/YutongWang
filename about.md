@@ -12,8 +12,8 @@ B.S. degree in Software Engineering from Chongqing University in 2012.</p>
 
 <h2>Education</h2>
 <ul>
-	<li>Ph.D Zhejiang University Sep. 2012- Now</li>
-	<li>B.Sc. Chongqing University Sep. 2008- Jun. 2012</li>
+	<li>Ph.D Zhejiang University from Sep. 2012- Now</li>
+	<li>B.Sc. Chongqing University from Sep. 2008- Jun. 2012</li>
 </ul>
 
 
