@@ -32,7 +32,6 @@ layout: page
 	 </div>  
 	</li>
 	
-	
   <li>
       <div>
          <h2>Topologically Consistent Leafy Tree Morphing</h2>
