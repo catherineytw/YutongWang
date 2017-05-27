@@ -10,6 +10,13 @@ interest is computer graphics , especially in creative tree modeling ,computer
 animation and sketch-based interactive modeling . Before that, she received her
 B.S. degree in Software Engineering from Chongqing University in 2012.</p>
 
+<h2>Education</h2>
+<ul>
+	<li>Ph.D Zhejiang University Sep. 2012- Now</li>
+	<li>B.Sc. Chongqing University Sep. 2008- Jun. 2012</li>
+</ul>
+
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -17,6 +24,7 @@ B.S. degree in Software Engineering from Chongqing University in 2012.</p>
 	<li>Qt</li>
 	<li>Latex</li>
 </ul>
+
 
 <h2>Projects</h2>
 
