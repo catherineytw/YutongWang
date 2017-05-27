@@ -28,7 +28,7 @@ layout: page
 	<li>
 	 <div>
          <h2>Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</h2>
-		 <a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"> <img src="publications/images/creative_tree_modeling/archmodel11-41_together4.jpg" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/></a>
+		 <a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"> <img src="publications/images/creative_tree_modeling/teaser.png" width="1280px" height="252px" alt="Creative Virtual Tree Modeling"/></a>
 	 </div>  
 	</li>
 	
@@ -36,14 +36,9 @@ layout: page
   <li>
       <div>
          <h2>Topologically Consistent Leafy Tree Morphing</h2>
-         <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="publications/images/topologically consistent leafy tree morphing/Cabbage_Bonsai6_smaller.jpg" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/></a>
+         <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="publications/images/topologically consistent leafy tree morphing/teaser.png" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/></a>
       </div>    
     </li>
-	
-	
-	<li>
-	<a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing">Topologically Consistent Leafy Tree Morphing</a>
-	</li>
 	
 	<li>
 	<a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high">Sketch-Based Interactive Modeling of Geology</a>
