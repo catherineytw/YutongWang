@@ -27,11 +27,10 @@ layout: page
 <ul>
   <li>
       <div>
-         <h2>山清水秀</h2>
-         <p>秀丽的河山</p>
-         <a href="#">点击进入</a>
+         <h2>Topologically Consistent Leafy Tree Morphing</h2>
+         <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing">点击进入</a>
       </div>
-      <img src="publications/images/topologically consistent leafy tree morphing/Cabbage_Bonsai6.jpg" width="1280px" height="252px" alt=""/>
+      <img src="publications/images/topologically consistent leafy tree morphing/Cabbage_Bonsai6.jpg" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/>
     </li>
 	
 	<li>
