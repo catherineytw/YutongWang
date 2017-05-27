@@ -42,7 +42,7 @@ disqus:
 linkedin: http://www.linkedin.com/in/yutong-wang-3827b736/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://catherineytw.github.io/YutongWang/
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -57,7 +57,7 @@ authors:
         bio: Love Graphics, Love Life.
         external-image: false
         picture: assets/images/catherineytw.jpg
-        twitter: johndoe
+        #twitter: johndoe
  #   jamesfoster:
  #       name: James Foster
  #       bio: A Man who develops software with coffee
