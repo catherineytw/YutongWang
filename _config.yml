@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://catherineytw.github.io
+url: https://catherineytw.github.io/YutongWang/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ disqus:
 linkedin: http://www.linkedin.com/in/yutong-wang-3827b736/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://catherineytw.github.io/YutongWang/
+github: https://catherineytw.github.io
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
