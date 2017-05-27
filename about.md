@@ -25,6 +25,15 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
+  <li>
+      <div>
+         <h2>山清水秀</h2>
+         <p>秀丽的河山</p>
+         <a href="#">点击进入</a>
+      </div>
+      <img src="publications/images/topologically consistent leafy tree morphing/Eucalptus_Staphyella_small_150.pdf" width="160px" height="240px" alt=""/>
+    </li>
+	
 	<li>
 	<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a>
 	</li>
