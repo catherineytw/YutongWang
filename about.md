@@ -31,7 +31,7 @@ layout: page
          <p>秀丽的河山</p>
          <a href="#">点击进入</a>
       </div>
-      <img src="publications/images/topologically consistent leafy tree morphing/Eucalptus_Staphyella_small_150.pdf" width="160px" height="240px" alt=""/>
+      <img src="publications/images/topologically consistent leafy tree morphing/Cabbage_Bonsai6.jpg" width="1280px" height="252px" alt=""/>
     </li>
 	
 	<li>
