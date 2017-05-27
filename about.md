@@ -27,16 +27,16 @@ layout: page
 <ul>
 	<li>
 	 <div>
-        <h2>Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</h2>
-		<I>Yutong Wang</I>, Xiaowei Xue, Xiaogang Jin, Zhigang Deng. IEEE Transactions on Visualization and Computer Graphics, IEEE Computer Society, 2016 (accepted)
+        <p><h2>Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</h2>
+		<B><I>Yutong Wang</I></B>, Xiaowei Xue, Xiaogang Jin, Zhigang Deng. <i>IEEE Transactions on Visualization and Computer Graphics</i>, IEEE Computer Society, 2016 (accepted)</p>
 		<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"> <img src="publications/images/creative_tree_modeling/teaser.png" width="1280px" height="252px" alt="Creative Virtual Tree Modeling"/></a>	 
 	 </div>  
 	</li>
 	
   <li>
       <div>
-         <h2>Topologically Consistent Leafy Tree Morphing</h2>
-		 <I>Yutong Wang</I>, Luyuan Wang, Zhigang Deng and Xiaogang Jin. Computer Animation and Virtual Worlds, Wiley, 2017, 29 (Accepted). (Best Paper Award for CASA'2017)
+         <p><h2>Topologically Consistent Leafy Tree Morphing</h2>
+		 <B><I>Yutong Wang</I></B>, Luyuan Wang, Zhigang Deng and Xiaogang Jin. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29 (Accepted). <font face="verdana" color="purple">(Best Paper Award for CASA'2017)</font></p>	 
          <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="publications/images/topologically consistent leafy tree morphing/teaser.png" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/></a>
       </div>    
     </li>
