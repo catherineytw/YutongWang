@@ -33,6 +33,14 @@ layout: page
      
     </li>
 	
+	  <li>
+      <div>
+         <h2>Topologically Consistent Leafy Tree Morphing</h2>
+         <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="/assets/images/james.jpg"/></a>
+      </div>
+     
+    </li>
+	
 	<li>
 	<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a>
 	</li>
