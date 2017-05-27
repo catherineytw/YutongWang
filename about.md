@@ -25,25 +25,21 @@ layout: page
 <h2>Publications</h2>
 
 <ul>
+	<li>
+	 <div>
+         <h2>Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</h2>
+		 <a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"> <img src="publications/images/creative_tree_modeling/archmodel11-41_together4.jpg" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/></a>
+	 </div>  
+	</li>
+	
+	
   <li>
       <div>
          <h2>Topologically Consistent Leafy Tree Morphing</h2>
          <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="publications/images/topologically consistent leafy tree morphing/Cabbage_Bonsai6_smaller.jpg" width="1280px" height="252px" alt="Topologically Consistent :Leafy Tree Morphing"/></a>
-      </div>
-     
+      </div>    
     </li>
 	
-	  <li>
-      <div>
-         <h2>Topologically Consistent Leafy Tree Morphing</h2>
-         <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="/assets/images/james.jpg"/></a>
-      </div>
-     
-    </li>
-	
-	<li>
-	<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a>
-	</li>
 	
 	<li>
 	<a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing">Topologically Consistent Leafy Tree Morphing</a>
