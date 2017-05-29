@@ -5,8 +5,9 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <style> 
-.divcss5{ border:0px solid #0000; width:600px; height:300px} 
+.divcss5{ border:0px solid #0000; width:600px; height:700px} 
 .divcss5 img{width:600px; height:150px} 
+.divcss5 video{width:600px; height:400} 
 
 .divcss6{ border:0px solid #0000; width:600px; height:350px} 
 .divcss6 img{width:600px; height:200px} 
@@ -66,6 +67,7 @@ layout: page
 		 <B><I>Yutong Wang</I></B>, Luyuan Wang, Zhigang Deng and Xiaogang Jin. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="#FF1493">(Best Paper Award for CASA'2017)</font></p>	 
 		 <p><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"><img src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/teaser.jpg" height="200px" width="600px" alt="Topologically Consistent Leafy Tree Morphing"/></a>
 		 </p>
+		 <video src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/Topologically Consistent Leafy Tree Morphing.mp4" controls="controls"></video>
       </div>    
     </li>
 	
