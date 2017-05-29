@@ -7,6 +7,12 @@ layout: page
 <style> 
 .divcss5{ border:0px solid #0000; width:600px; height:300px} 
 .divcss5 img{width:600px; height:150px} 
+
+.divcss6{ border:0px solid #0000; width:600px; height:300px} 
+.divcss6 img{width:600px; height:250px} 
+
+.divcss7{ border:0px solid #0000; width:600px; height:300px} 
+.divcss7 img{width:600px; height:250px} 
 </style> 
 
 <p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in <b>creative tree modeling</b>, <b>computer animation</b> and <b>sketch-based interactive modeling</b>. Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.</p>
@@ -59,7 +65,7 @@ layout: page
 	
 	
 	<li>
-		<div class="divcss5">
+		<div class="divcss6">
         <p><h4><a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a></h4>
 		<B><I>Yutong Wang</I></B>, Xiaowei Xue, Xiaogang Jin, Zhigang Deng. <i>IEEE Transactions on Visualization and Computer Graphics</i>, IEEE Computer Society, 2016 (accepted)</p>	 
 		<p>
@@ -70,7 +76,7 @@ layout: page
 	
 	
 	<li>
-		<div class="divcss5">
+		<div class="divcss7">
         <p><h4><a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high">Sketch-Based Interactive Modeling of Geology</a></h4>
 		<B><I>Yutong Wang</I></B>, Hao Chen, Tanghao Tian, Xiaogang Jin. <i>Journal of Software</i>, 2016, 27(Suppl.(2)):207−219 (in Chinese) </p> 
 		<p>
