@@ -8,10 +8,10 @@ layout: page
 .divcss5{ border:0px solid #0000; width:600px; height:300px} 
 .divcss5 img{width:600px; height:150px} 
 
-.divcss6{ border:0px solid #0000; width:600px; height:300px} 
+.divcss6{ border:0px solid #0000; width:600px; height:350px} 
 .divcss6 img{width:600px; height:200px} 
 
-.divcss7{ border:0px solid #0000; width:600px; height:300px} 
+.divcss7{ border:0px solid #0000; width:600px; height:400px} 
 .divcss7 img{width:600px; height:250px} 
 </style> 
 
@@ -19,11 +19,11 @@ layout: page
 
 <h2><font color="#FF1493">News</font></h2>
 <ul>
-	<li><p><b>[2017/05/24]</b> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is awarded as the <b><font color="purple">Best Paper for CASA'2017</font></b>.</p></li>
+	<li><p><font color="black">[2017/05/24]</font> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is awarded as the <b><font color="purple">Best Paper for CASA'2017</font></b>.</p></li>
 	
-	<li><p><b>[2017/03/23]</b> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is accepted by Computer Animation and Virtual Worlds.</p></li>
+	<li><p><font color="black">[2017/03/23]</font> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is accepted by Computer Animation and Virtual Worlds.</p></li>
 	
-	<li><p><b>[2016/12/23]</b> Our paper <i>"Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending"</i> is accepted by IEEE Transactions on Visualization and Computer Graphics.</p></li>
+	<li><p><font color="black">[2016/12/23]</font> Our paper <i>"Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending"</i> is accepted by IEEE Transactions on Visualization and Computer Graphics.</p></li>
 	
 </ul>
 
@@ -31,14 +31,12 @@ layout: page
 <h2>Education</h2>
 <ul>
 	<li>
-	<p><b>[2012/09 - Now]</b> Ph.D in state of key lab of CAD&CG in Zhejiang University.</p>
+	<p><font color="black">[2012/09 - Now]</font> Ph.D in state of key lab of CAD&CG in Zhejiang University.</p>
 	</li>	
-	<li>
-	<p><b>[2008/09 - 2012/06]</b> B.Sc. of Software Engineering in Chongqing University.</p>
-	</li>
 	
-	<li>Ph.D Zhejiang University from Sep. 2012- Now</li>
-	<li>B.Sc. Chongqing University from Sep. 2008- Jun. 2012</li>
+	<li>
+	<p><font color="black">[2008/09 - 2012/06]</font> B.Sc. of Software Engineering in Chongqing University.</p>
+	</li>
 </ul>
 
 <h2>Skills</h2>
