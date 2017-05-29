@@ -16,7 +16,7 @@ layout: page
 </style> 
 
 <p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in</p>
-</p>
+<p>
 	<ul>
 		<li>creative tree modeling</li>
 		<li>computer animation</li>
