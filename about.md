@@ -19,7 +19,7 @@ layout: page
 
 <h2><font color="#FF1493">News</font></h2>
 <ul>
-	<li><p><font color="black">[2017/05/24]</font> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is awarded as the <b><font color="purple">Best Paper for CASA'2017</font></b>.</p></li>
+	<li><p><font color="black">[2017/05/24]</font> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is awarded as the <b><font color="#FF1493">Best Paper for CASA'2017</font></b>.</p></li>
 	
 	<li><p><font color="black">[2017/03/23]</font> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is accepted by Computer Animation and Virtual Worlds.</p></li>
 	
