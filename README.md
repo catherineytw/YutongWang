@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img src="https://catherineytw.github.io/YutongWang/assets/catherineytw.jpg" />
 </p>
 
 ## What has inside
