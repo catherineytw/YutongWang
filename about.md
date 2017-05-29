@@ -4,6 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<style> 
+.divcss5{ border:1px solid #000; width:600px; height:200px} 
+.divcss5 img{width:600px; height:200px} 
+</style> 
+
 <p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in <b>creative tree modeling</b>, <b>computer animation</b> and <b>sketch-based interactive modeling</b>. Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.</p>
 
 <h2><font color="#FF1493">News</font></h2>
@@ -44,10 +49,10 @@ layout: page
 <ul>
 
   <li>
-      <div width="600px">
+      <div class="divcss5">
          <p><h4><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> Topologically Consistent Leafy Tree Morphing</a></h4>
 		 <B><I>Yutong Wang</I></B>, Luyuan Wang, Zhigang Deng and Xiaogang Jin. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="purple">(Best Paper Award for CASA'2017)</font></p>	 
-         <a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> <img src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/teaser.jpg" height="200px" width="600px" alt="Topologically Consistent Leafy Tree Morphing"/></a>
+		 <img src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/teaser.jpg" height="200px" width="600px" alt="Topologically Consistent Leafy Tree Morphing"/>
       </div>    
     </li>
 	
@@ -64,7 +69,7 @@ layout: page
 	<li>
 		<div width="600px">
 			<p><h4><a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high">Sketch-Based Interactive Modeling of Geology</a></h4>
-			<B><I>Yutong Wang</I></B>, Hao Chen, Tanghao Tian, Xiaogang Jin. <i>Journal of Software</i>, ,2016,27(Suppl.(2)):207−219 (in Chinese) </p>
+			<B><I>Yutong Wang</I></B>, Hao Chen, Tanghao Tian, Xiaogang Jin. <i>Journal of Software</i>, 2016, 27(Suppl.(2)):207−219 (in Chinese) </p>
 			<a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high"> <img src="https://catherineytw.github.io/YutongWang/publications/images/Sketch_Geology/teaser.jpg"  height="200px" width="600px" alt="Sketch-Based Interactive Modeling of Geology"/></a>	 
 		</div> 
 	</li>
