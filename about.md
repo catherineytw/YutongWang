@@ -19,6 +19,13 @@ layout: page
 
 <h2>Education</h2>
 <ul>
+	<li>
+	<p><b>[2012/09 - Now]</b> Ph.D in state of key lab of CAD&CG in Zhejiang University</b>.</p>
+	</li>	
+	<li>
+	<p><b>[2008/09 - 2012/06]</b> B.Sc. of Software Engineering in Chongqing University</b>.</p>
+	</li>
+	
 	<li>Ph.D Zhejiang University from Sep. 2012- Now</li>
 	<li>B.Sc. Chongqing University from Sep. 2008- Jun. 2012</li>
 </ul>
