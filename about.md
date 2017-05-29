@@ -13,6 +13,18 @@ layout: page
 </ul>
 
 
+
+<h2><font color="#FF1493">News</font></h2>
+<ul>
+	<li><p><b>[2017/05/24]</b> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is awarded as the <b><font color="purple">Best Paper for CASA'2017</font></b>.</p></li>
+	
+	<li><p><b>[2017/03/23]</b> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is accepted by Computer Animation and Virtual Worlds.</p></li>
+	
+	<li><p><b>[2016/12/23]</b> Our paper <i>"Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending"</i> is accepted by IEEE Transactions on Visualization and Computer Graphics.</p></li>
+	
+</ul>
+
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
