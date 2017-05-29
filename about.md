@@ -9,7 +9,7 @@ layout: page
 .divcss5 img{width:600px; height:150px} 
 
 .divcss6{ border:0px solid #0000; width:600px; height:300px} 
-.divcss6 img{width:600px; height:250px} 
+.divcss6 img{width:600px; height:200px} 
 
 .divcss7{ border:0px solid #0000; width:600px; height:300px} 
 .divcss7 img{width:600px; height:250px} 
