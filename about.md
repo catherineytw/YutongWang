@@ -15,7 +15,7 @@ layout: page
 .divcss7 img{width:600px; height:250px} 
 </style> 
 
-<p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in <b>creative tree modeling</b>, <b>computer animation</b> and <b>sketch-based interactive modeling</b>. Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.</p>
+<p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in <font color="black" face="verdana">creative tree modeling</font>, <font color="black" face="verdana">computer animation</font> and <font color="black" face="verdana">sketch-based interactive modeling</font>. Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.</p>
 
 <h2><font color="#FF1493">News</font></h2>
 <ul>
