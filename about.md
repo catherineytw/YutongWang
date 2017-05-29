@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <style> 
-.divcss5{ border:1px solid #000; width:600px; height:200px} 
+.divcss5{ border:1px solid #000; width:600px; height:400px} 
 .divcss5 img{width:600px; height:200px} 
 </style> 
 
