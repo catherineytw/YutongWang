@@ -59,20 +59,25 @@ layout: page
 	
 	
 	<li>
-	 <div width="600px">
+		<div class="divcss5">
         <p><h4><a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a></h4>
-		<B><I>Yutong Wang</I></B>, Xiaowei Xue, Xiaogang Jin, Zhigang Deng. <i>IEEE Transactions on Visualization and Computer Graphics</i>, IEEE Computer Society, 2016 (accepted)</p>
-		<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"> <img src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/teaser.jpg"  height="200px" width="600px" alt="Creative Virtual Tree Modeling"/></a>	 
-	 </div>  
+		<B><I>Yutong Wang</I></B>, Xiaowei Xue, Xiaogang Jin, Zhigang Deng. <i>IEEE Transactions on Visualization and Computer Graphics</i>, IEEE Computer Society, 2016 (accepted)</p>	 
+		<p>
+			<img src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/teaser.jpg"  height="200px" width="600px" alt="Creative Virtual Tree Modeling"/>
+		</p>
+      </div>    
 	</li>
 	
 	
 	<li>
-		<div width="600px">
-			<p><h4><a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high">Sketch-Based Interactive Modeling of Geology</a></h4>
-			<B><I>Yutong Wang</I></B>, Hao Chen, Tanghao Tian, Xiaogang Jin. <i>Journal of Software</i>, 2016, 27(Suppl.(2)):207−219 (in Chinese) </p>
-			<a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high"> <img src="https://catherineytw.github.io/YutongWang/publications/images/Sketch_Geology/teaser.jpg"  height="200px" width="600px" alt="Sketch-Based Interactive Modeling of Geology"/></a>	 
-		</div> 
+		<div class="divcss5">
+        <p><h4><a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high">Sketch-Based Interactive Modeling of Geology</a></h4>
+		<B><I>Yutong Wang</I></B>, Hao Chen, Tanghao Tian, Xiaogang Jin. <i>Journal of Software</i>, 2016, 27(Suppl.(2)):207−219 (in Chinese) </p> 
+		<p>
+			<img src="https://catherineytw.github.io/YutongWang/publications/images/Sketch_Geology/teaser.jpg"  height="200px" width="600px" alt="Sketch-Based Interactive Modeling of Geology"/>
+		</p>
+      </div>  
+	  
 	</li>
 	
 </ul>
