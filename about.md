@@ -5,8 +5,8 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <style> 
-.divcss5{ border:1px solid #000; width:600px; height:400px} 
-.divcss5 img{width:600px; height:200px} 
+.divcss5{ border:0px solid #0000; width:600px; height:300px} 
+.divcss5 img{width:600px; height:150px} 
 </style> 
 
 <p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in <b>creative tree modeling</b>, <b>computer animation</b> and <b>sketch-based interactive modeling</b>. Before that, she received her B.S. degree in Software Engineering from Chongqing University in 2012.</p>
@@ -51,7 +51,7 @@ layout: page
   <li>
       <div class="divcss5">
          <p><h4><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> Topologically Consistent Leafy Tree Morphing</a></h4>
-		 <B><I>Yutong Wang</I></B>, Luyuan Wang, Zhigang Deng and Xiaogang Jin. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="purple">(Best Paper Award for CASA'2017)</font></p>	 
+		 <B><I>Yutong Wang</I></B>, Luyuan Wang, Zhigang Deng and Xiaogang Jin. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="#FF1493">(Best Paper Award for CASA'2017)</font></p>	 
 		 <p><img src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/teaser.jpg" height="200px" width="600px" alt="Topologically Consistent Leafy Tree Morphing"/>
 		 </p>
       </div>    
