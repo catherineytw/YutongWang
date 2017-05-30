@@ -7,13 +7,15 @@ layout: page
 <style> 
 .divcss5{ border:0px solid #0000; width:600px; height:700px} 
 .divcss5 img{width:600px; height:150px} 
-.divcss5 video{width:600px; height:400} 
+.divcss5 video{width:600px; height:400px} 
 
-.divcss6{ border:0px solid #0000; width:600px; height:350px} 
+.divcss6{ border:0px solid #0000; width:600px; height:750px} 
 .divcss6 img{width:600px; height:200px} 
+.divcss6 video{width:600px; height:400px} 
 
-.divcss7{ border:0px solid #0000; width:600px; height:400px} 
+.divcss7{ border:0px solid #0000; width:600px; height:800px} 
 .divcss7 img{width:600px; height:250px} 
+.divcss7 video{width:600px; height:400px} 
 </style> 
 
 <p>Yutong Wang is now a Ph.D candidate in the State Key Lab of CAD & CG, Zhejiang University under the supervision of Professor Xiaogang Jin. Her research interest is computer graphics, especially in</p>
@@ -79,6 +81,7 @@ layout: page
 		<p>
 			<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"><img src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/teaser.jpg"  height="200px" width="600px" alt="Creative Virtual Tree Modeling"/></a>
 		</p>
+		<video src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending~1.mp4" controls="controls"></video>
       </div>    
 	</li>
 	
@@ -90,6 +93,7 @@ layout: page
 		<p>
 			<a href="https://www.researchgate.net/publication/314117184_Sketch-Based_Interactive_Modeling_of_Geology_caotujiaohushidezhijianmoyanjiu?ev=prf_high"><img src="https://catherineytw.github.io/YutongWang/publications/images/Sketch_Geology/teaser.jpg"  height="200px" width="600px" alt="Sketch-Based Interactive Modeling of Geology"/></a>
 		</p>
+		<video src="https://catherineytw.github.io/YutongWang/publications/images/Sketch_Geology/SketchGeology.mp4" controls="controls"></video>
       </div>  
 	  
 	</li>
