@@ -81,7 +81,7 @@ layout: page
 		<p>
 			<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"><img src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/teaser.jpg"  height="200px" width="600px" alt="Creative Virtual Tree Modeling"/></a>
 		</p>
-		<video src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending.mp4" controls="controls"></video>
+		<video src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/tree blending.mp4" controls="controls"></video>
       </div>    
 	</li>
 	
