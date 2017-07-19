@@ -66,7 +66,7 @@ layout: page
   <li>
       <div class="divcss5">
          <p><h4><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> Topologically Consistent Leafy Tree Morphing</a></h4>
-		 <B><I>Yutong Wang</I></B>, Luyuan Wang, Zhigang Deng and <a href="http://www.cad.zju.edu.cn/home/jin/casa2017/casa2017.htm">Xiaogang Jin</a>. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="#FF1493">(Best Paper Award for CASA'2017)</font></p>	 
+		 <B><I>Yutong Wang</I></B>, Luyuan Wang, <a href="http://graphics.cs.uh.edu/zdeng/">Zhigang Deng</a> and <a href="http://www.cad.zju.edu.cn/home/jin/casa2017/casa2017.htm">Xiaogang Jin</a>. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="#FF1493">(Best Paper Award for CASA'2017)</font></p>	 
 		 <p><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"><img src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/teaser.jpg" height="200px" width="600px" alt="Topologically Consistent Leafy Tree Morphing"/></a>
 		 </p>
 		 <video src="https://catherineytw.github.io/YutongWang/publications/images/topologically consistent leafy tree morphing/Topologically Consistent Leafy Tree Morphing.mp4" controls="controls"></video>
@@ -77,7 +77,7 @@ layout: page
 	<li>
 		<div class="divcss6">
         <p><h4><a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high">Creative Virtual Tree Modeling through Hierarchical Topology-preserving Blending</a></h4>
-		<B><I>Yutong Wang</I></B>, Xiaowei Xue, <a href="http://www.cad.zju.edu.cn/home/jin/tvcg2016/tvcg2016.htm">Xiaogang Jin</a>, Zhigang Deng. <i>IEEE Transactions on Visualization and Computer Graphics</i>, IEEE Computer Society, 2016 (accepted)</p>	 
+		<B><I>Yutong Wang</I></B>, Xiaowei Xue, <a href="http://www.cad.zju.edu.cn/home/jin/tvcg2016/tvcg2016.htm">Xiaogang Jin</a>, <a href="http://graphics.cs.uh.edu/zdeng/">Zhigang Deng</a>. <i>IEEE Transactions on Visualization and Computer Graphics</i>, IEEE Computer Society, 2016 (accepted)</p>	 
 		<p>
 			<a href="https://www.researchgate.net/publication/311478440_Creative_Virtual_Tree_Modeling_through_Hierarchical_Topology-preserving_Blending?ev=prf_high"><img src="https://catherineytw.github.io/YutongWang/publications/images/creative_tree_modeling/teaser.jpg"  height="200px" width="600px" alt="Creative Virtual Tree Modeling"/></a>
 		</p>
