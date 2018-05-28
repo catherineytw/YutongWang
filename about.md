@@ -30,7 +30,7 @@ layout: page
 
 <h2><font color="#FF1493">News</font></h2>
 <ul>
-	<li><p><font color="black">[2018/03/21]</font> Our paper <i>"Sketch-based Shape-preserving Tree Animation"</i> is is awarded as the <b><font color="#FF1493">Best Paper for CASA'2017</font></b>.</p></li>
+	<li><p><font color="black">[2018/05/23]</font> Our paper <i>"Sketch-based Shape-preserving Tree Animation"</i> is is awarded as the <b><font color="#FF1493">Best Paper for CASA'2018</font></b>.</p></li>
 	
 	<li><p><font color="black">[2018/03/21]</font> Our paper <i>"Sketch-based Shape-preserving Tree Animation"</i> is accepted by Computer Animation and Virtual Worlds 2018.</p></li>
 	
@@ -67,6 +67,16 @@ layout: page
 
 <ul>
 
+  <li>
+      <div class="divcss5">	 
+         <p><h4><a href="http://www.cad.zju.edu.cn/home/jin/casa2018/casa2018.htm"> Sketch-based Shape-preserving Tree Animations</a></h4>
+		 <B><I>Yutong Wang</I></B>, Luyuan Wang, <a href="http://graphics.cs.uh.edu/zdeng/">Zhigang Deng</a> and <a href="http://www.cad.zju.edu.cn/home/jin/casa2017/casa2017.htm">Xiaogang Jin</a>. <i>Computer Animation and Virtual Worlds</i> Wiley, 2017, 29. <font face="verdana" color="#FF1493">(Best Paper Award for CASA'2018)</font></p>	 
+		 <p><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"><img src="https://catherineytw.github.io/YutongWang/publications/images/Sketch-based Shape-preserving Tree Animation/teaser.jpg" height="200px" width="600px" alt="Sketch-Based Shape-preserving Tree Animation"/></a>
+		 </p>
+		 <video src="https://catherineytw.github.io/YutongWang/publications/images/Sketch-based Shape-preserving Tree Animation/Demo.MP4" controls="controls"></video>
+      </div>    
+    </li>
+	
   <li>
       <div class="divcss5">	 
          <p><h4><a href="https://www.researchgate.net/publication/315516994_Topologically_Consistent_Leafy_Tree_Morphing"> Topologically Consistent Leafy Tree Morphing</a></h4>
