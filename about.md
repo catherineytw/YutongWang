@@ -30,6 +30,8 @@ layout: page
 
 <h2><font color="#FF1493">News</font></h2>
 <ul>
+	<li><p><font color="black">[2018/03/21]</font> Our paper <i>"Sketch-based Shape-preserving Tree Animation"</i> is is awarded as the <b><font color="#FF1493">Best Paper for CASA'2017</font></b>.</p></li>
+	
 	<li><p><font color="black">[2018/03/21]</font> Our paper <i>"Sketch-based Shape-preserving Tree Animation"</i> is accepted by Computer Animation and Virtual Worlds 2018.</p></li>
 	
 	<li><p><font color="black">[2017/05/24]</font> Our paper <i>"Topologically Consistent Leafy Tree Morphing"</i> is awarded as the <b><font color="#FF1493">Best Paper for CASA'2017</font></b>.</p></li>
